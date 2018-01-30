@@ -1,7 +1,7 @@
 # basic-react-navigation
 
-Basic React navigation example without any navigation libraries. I used
-[electron-es6-react] to make it a desktop app.
+Basic [React] navigation example without additional navigation libraries using
+[Electron]. I used [electron-es6-react] to use [Electron].
 
 ## Installation
 
@@ -13,3 +13,5 @@ npm start
 ```
 
 [electron-es6-react]: https://github.com/b52/electron-es6-react
+[React]: https://reactjs.org/
+[Electron]: https://electronjs.org/
